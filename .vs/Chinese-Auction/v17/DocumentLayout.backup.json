@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\SCHOOL\\Second Year\\API\\Chinese-Auction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38D04B-9E93-4720-8A11-74AA7B290588}|Chinese-Auction\\Chinese-Auction.csproj|c:\\users\\user\\onedrive\\documents\\school\\second year\\api\\chinese-auction\\chinese-auction\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38D04B-9E93-4720-8A11-74AA7B290588}|Chinese-Auction\\Chinese-Auction.csproj|solutionrelative:chinese-auction\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38D04B-9E93-4720-8A11-74AA7B290588}|Chinese-Auction\\Chinese-Auction.csproj|c:\\users\\user\\onedrive\\documents\\school\\second year\\api\\chinese-auction\\chinese-auction\\models\\purchases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38D04B-9E93-4720-8A11-74AA7B290588}|Chinese-Auction\\Chinese-Auction.csproj|solutionrelative:chinese-auction\\models\\purchases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38D04B-9E93-4720-8A11-74AA7B290588}|Chinese-Auction\\Chinese-Auction.csproj|c:\\users\\user\\onedrive\\documents\\school\\second year\\api\\chinese-auction\\chinese-auction\\models\\gifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38D04B-9E93-4720-8A11-74AA7B290588}|Chinese-Auction\\Chinese-Auction.csproj|solutionrelative:chinese-auction\\models\\gifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38D04B-9E93-4720-8A11-74AA7B290588}|Chinese-Auction\\Chinese-Auction.csproj|c:\\users\\user\\onedrive\\documents\\school\\second year\\api\\chinese-auction\\chinese-auction\\models\\donator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38D04B-9E93-4720-8A11-74AA7B290588}|Chinese-Auction\\Chinese-Auction.csproj|solutionrelative:chinese-auction\\models\\donator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\SCHOOL\\Second Year\\API\\Chinese-Auction\\Chinese-Auction\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Chinese-Auction\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\SCHOOL\\Second Year\\API\\Chinese-Auction\\Chinese-Auction\\Models\\User.cs",
+              "RelativeToolTip": "Chinese-Auction\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:45:43.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Purchases.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\SCHOOL\\Second Year\\API\\Chinese-Auction\\Chinese-Auction\\Models\\Purchases.cs",
+              "RelativeDocumentMoniker": "Chinese-Auction\\Models\\Purchases.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\SCHOOL\\Second Year\\API\\Chinese-Auction\\Chinese-Auction\\Models\\Purchases.cs",
+              "RelativeToolTip": "Chinese-Auction\\Models\\Purchases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:04:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gifts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\SCHOOL\\Second Year\\API\\Chinese-Auction\\Chinese-Auction\\Models\\Gifts.cs",
+              "RelativeDocumentMoniker": "Chinese-Auction\\Models\\Gifts.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\SCHOOL\\Second Year\\API\\Chinese-Auction\\Chinese-Auction\\Models\\Gifts.cs",
+              "RelativeToolTip": "Chinese-Auction\\Models\\Gifts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:03:08.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Donator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\SCHOOL\\Second Year\\API\\Chinese-Auction\\Chinese-Auction\\Models\\Donator.cs",
+              "RelativeDocumentMoniker": "Chinese-Auction\\Models\\Donator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\SCHOOL\\Second Year\\API\\Chinese-Auction\\Chinese-Auction\\Models\\Donator.cs",
+              "RelativeToolTip": "Chinese-Auction\\Models\\Donator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:02:24.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
